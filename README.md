@@ -1,6 +1,6 @@
   **青龙拉库命令**
   ```bash
-ql repo https://gitee.com/3454865121/mimu.git miuitask|firstrun utils|init utils|config master py|yaml|sh
+ql repo https://gitee.com/zmmm2/mimu.git miuitask|firstrun utils|init utils|config master py|yaml|sh
   ```
 # MIUI Task
 一个适用于 社区 4.0 模拟网络功能请求的脚本
